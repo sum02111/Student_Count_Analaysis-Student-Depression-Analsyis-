@@ -14,7 +14,9 @@ The goal is to uncover patterns, generate insights, and create an interactive Ta
 
 ## 📷 Dashboard Preview
 
-| ![Dashboard Preview 1](Preview_DashBoard (2).pdf) |
+[📕 Dashboard PDF Preview](Preview_DashBoard%20(2).pdf)
+
+*Click the preview to open the PDF dashboard.*
 
 ---
 
@@ -22,9 +24,9 @@ The goal is to uncover patterns, generate insights, and create an interactive Ta
 
 | File Name | Description |
 |-----------|-------------|
-| `Depression+Student+Dataset.csv` | Original dataset containing survey responses on depression and related factors |
-| `Student Count Analaysis (Student Depression Analsyis ).twb` | Tableau workbook containing the complete analysis and dashboard |
-| `Preview_DashBoard (2).pdf` | Dashboard preview image |
+| [📄 Depression+Student+Dataset.csv](Depression+Student+Dataset.csv) | Original dataset containing survey responses on depression and related factors |
+| [📊 Student Count Analaysis (Student Depression Analsyis ).twb](Student%20Count%20Analaysis%20(Student%20Depression%20Analsyis%20).twb) | Tableau workbook containing the complete analysis and dashboard |
+| [📕 Preview_DashBoard (2).pdf](Preview_DashBoard%20(2).pdf) | Dashboard PDF preview |
 
 ---
 
@@ -74,8 +76,8 @@ The dataset contains information collected from students regarding:
 ## 📌 How to Use
 
 1. **Clone this repository** or download the files.
-2. Open `Depression+Student+Dataset.csv` in SQL Server if you wish to redo the cleaning steps.
-3. Open `Student Count Analaysis (Student Depression Analsyis ).twb` in **Tableau Desktop**.
+2. Open [`Depression+Student+Dataset.csv`](Depression+Student+Dataset.csv) in SQL Server if you wish to redo the cleaning steps.
+3. Open [`Student Count Analaysis (Student Depression Analsyis ).twb`](Student%20Count%20Analaysis%20(Student%20Depression%20Analsyis%20).twb) in **Tableau Desktop**.
 4. Explore, modify, or interact with the dashboard as needed.
 
 ---
@@ -85,5 +87,3 @@ The dataset contains information collected from students regarding:
 - **SQL Server** → Data import, cleaning, and transformation
 - **Tableau Desktop** → Visualization and dashboard creation
 - **Tableau Cloud** → Publishing and sharing dashboards
-
----
