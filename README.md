@@ -14,7 +14,7 @@ The goal is to uncover patterns, generate insights, and create an interactive Ta
 
 ## 📷 Dashboard Preview
 
-| ![Dashboard Preview 1](Screenshot%20(149).png) | ![Dashboard Preview 2](Screenshot%20(150).png) |
+| ![Dashboard Preview 1](Preview_DashBoard (2).pdf) |
 
 ---
 
@@ -24,8 +24,7 @@ The goal is to uncover patterns, generate insights, and create an interactive Ta
 |-----------|-------------|
 | `Depression+Student+Dataset.csv` | Original dataset containing survey responses on depression and related factors |
 | `Student Count Analaysis (Student Depression Analsyis ).twb` | Tableau workbook containing the complete analysis and dashboard |
-| `Screenshot (149).png` | Dashboard preview image 1 |
-| `Screenshot (150).png` | Dashboard preview image 2 |
+| `Preview_DashBoard (2).pdf` | Dashboard preview image |
 
 ---
 
@@ -86,8 +85,5 @@ The dataset contains information collected from students regarding:
 - **SQL Server** → Data import, cleaning, and transformation
 - **Tableau Desktop** → Visualization and dashboard creation
 - **Tableau Cloud** → Publishing and sharing dashboards
-
----
-
 
 ---
