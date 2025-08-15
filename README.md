@@ -5,7 +5,6 @@ Interactive SQL + Tableau project analyzing student depression trends using surv
 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)]()
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)]()
 
 This project analyzes student survey data to explore the relationship between various academic and personal factors with depression levels among students.  
